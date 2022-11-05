@@ -6,10 +6,19 @@ Esse é um aplicativo construido usando bibliotecas modernas. Alguns dos conceit
 4 - HTTP Client com Retrofit
 5 - Biblioteca Picasso (dowload de imagens)
 
-Tela incial 
+Tela incial - Exibe uma lista de categorias de piadas que ao apertar em uma ele abrirá uma tela com uma piada da categoria apertada.
 
 
 ![image](https://user-images.githubusercontent.com/87837294/200127087-0c1f4990-c170-49ab-b641-b6e2781739e0.png)
+
+
+
+Tela da piada da categoria apertada
+
+
+
+![image](https://user-images.githubusercontent.com/87837294/200127179-f4b9c195-353e-4da7-a207-b0f801d3a86e.png)
+
 
 
 
