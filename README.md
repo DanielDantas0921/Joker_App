@@ -35,3 +35,6 @@ Sobre
 
 ![image](https://user-images.githubusercontent.com/87837294/200127115-434c3521-fe5b-4274-9897-6812c1f410ec.png)
 
+
+dowload apk: https://1drv.ms/u/s!Ahfb93vt7ZJrit4X3tsrYCryHJs3ow?e=wwrBLU
+
